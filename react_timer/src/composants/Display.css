@@ -1,11 +1,10 @@
 @import url("https://fonts.googleapis.com/css?family=M+PLUS+Rounded+1c");
 
 .display-bloc {
-  display: inline-block;
   background-color: rgb(245, 220, 188);
-  margin-top: 100px;
   width: 350px;
   border-radius: 10px;
+  margin: auto;
 }
 
 .digits {
